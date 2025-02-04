@@ -4,7 +4,7 @@ Instruções de uso
 
 Para uso do software, siga os seguintes passos:
 
-1°: clone o repositório para o seu computador.
+1°: clone o repositório para o seu computado/ou extraia o arquivo .rar e importe o projeto via extensão pico W
 
 Ao abrir o projeto com o VSCode, a extensão do CMake irá criar a pasta build para você com os arquivos de compilação.
 
